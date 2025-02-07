@@ -8,8 +8,6 @@
 * Первые две колонки не несут полезной информации, в дальнейшем будут удалены.
 
 ---
-git add data_description.md
-git commit -m "Update image links in data_description.md"
 
 **Выполнил:** *Никитюк Михаил*
 * Переменные *Surname*, *CreditScore*, *Geography*, *Gender*
