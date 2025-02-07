@@ -3,6 +3,7 @@
 ### Применение машинного обучения для предсказания оттока клиентов
 
 **Основные ссылки:**
+- [Ссылка на беседу](https://t.me/+JaNgnor6yi85NjYy)
 - [Общие правила проекта](https://docs.google.com/document/d/1Q18z70nvgvRhj1HXFPofuX06iakWMYTbxHmSmqBwc0s/edit?tab=t.0)
 - [Распределение по группам](https://docs.google.com/spreadsheets/d/1Thpa9EK3o98v0vVPh-P3kXcRTE55ue1JzlYRQvh1AUo/edit?gid=1049286438#gid=1049286438)
 - [Блокнот](https://colab.research.google.com/drive/1WGhWUZ--4GDxovyxVMCXl5pGokLPbMao?usp=sharing)
